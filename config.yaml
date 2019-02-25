@@ -1,0 +1,17 @@
+users:
+  - username
+  - username
+debug: true
+development: true
+key: 'NTI1MTk0MTA5MDE1ODE4Mjgx.DvzFKQ.h3R4Fyoc2R_K6qxTogOTp82s5Rk'
+command-prefix: $
+SpideyBot:
+  branch: branch-name
+  color: test-result-color
+db-connection:
+  driver: 'mysql'
+  username: dbuser
+  password: dbpassword
+  port: dbport
+  host: pdhost
+  database: dbname
